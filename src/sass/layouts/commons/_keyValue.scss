@@ -1,0 +1,27 @@
+.keyvalue-table {
+  height: auto;
+  display: table;
+
+  .keyvalue {
+    display: table-row;
+
+    .left {
+      display: table-cell;
+      text-align: left;
+      color: $black;
+      padding: 6px 0px;
+    }
+
+    .right {
+      display: table-cell;
+      color: $grey100;
+      padding: 6px 16px;
+    }
+
+    &.right-aligned {
+      .left {
+        text-align: right;
+      }
+    }
+  }
+}

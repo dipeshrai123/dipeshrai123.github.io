@@ -1,0 +1,12 @@
+.checkbox-container {
+  .checkbox {
+    display: flex;
+    cursor: pointer;
+    flex-direction: row;
+    column-gap: 10px;
+
+    &-label {
+      cursor: pointer;
+    }
+  }
+}

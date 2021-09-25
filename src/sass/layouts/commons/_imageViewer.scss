@@ -1,0 +1,60 @@
+.imageviewer-container {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .imageviewer {
+    width: 95%;
+    height: 90%;
+    border-radius: 4px;
+    position: relative;
+    overflow: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    img {
+      height: 100%;
+
+      @include responsive-for(md) {
+        width: 100%;
+        height: auto;
+      }
+    }
+
+    &-close {
+      position: absolute;
+      right: 20px;
+      top: 20px;
+
+      .close-button {
+        display: flex;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        align-items: center;
+        justify-content: center;
+        color: $white;
+        cursor: pointer;
+        transition: background 0.2s;
+        background: $red;
+        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+
+        &:hover {
+          background: darken($red, 4%);
+        }
+
+        &:active {
+          background: darken($red, 10%);
+        }
+      }
+    }
+  }
+}
