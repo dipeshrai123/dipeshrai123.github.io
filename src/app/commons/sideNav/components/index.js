@@ -1,1 +1,0 @@
-export * from "./navGroup.component";

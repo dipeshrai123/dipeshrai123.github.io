@@ -6,6 +6,7 @@ import thunk from "redux-thunk";
 import reducers from "./redux/reducers";
 import AppWithRouter from "./app";
 
+import "../node_modules/prismjs/themes/prism-tomorrow.css";
 import "./sass/main.scss";
 import "react-datepicker/dist/react-datepicker.css";
 
@@ -15,5 +16,5 @@ ReactDOM.render(
   <Provider store={store}>
     <AppWithRouter />
   </Provider>,
-  document.querySelector("#root"),
+  document.querySelector("#root")
 );
