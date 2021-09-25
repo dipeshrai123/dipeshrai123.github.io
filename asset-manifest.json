@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/dipeshrai123.github.io/static/js/main.fe901f8a.chunk.js",
-    "main.js.map": "/dipeshrai123.github.io/static/js/main.fe901f8a.chunk.js.map",
+    "main.js": "/dipeshrai123.github.io/static/js/main.d2fb5f78.chunk.js",
+    "main.js.map": "/dipeshrai123.github.io/static/js/main.d2fb5f78.chunk.js.map",
     "runtime-main.js": "/dipeshrai123.github.io/static/js/runtime-main.4fbb2f78.js",
     "runtime-main.js.map": "/dipeshrai123.github.io/static/js/runtime-main.4fbb2f78.js.map",
     "static/js/2.06c1147e.chunk.js": "/dipeshrai123.github.io/static/js/2.06c1147e.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.4fbb2f78.js",
     "static/js/2.06c1147e.chunk.js",
-    "static/js/main.fe901f8a.chunk.js"
+    "static/js/main.d2fb5f78.chunk.js"
   ]
 }
