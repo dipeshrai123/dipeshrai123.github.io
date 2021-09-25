@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.fe901f8a.chunk.js",
-    "main.js.map": "/static/js/main.fe901f8a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.868972f9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.868972f9.js.map",
-    "static/js/2.06c1147e.chunk.js": "/static/js/2.06c1147e.chunk.js",
-    "static/js/2.06c1147e.chunk.js.map": "/static/js/2.06c1147e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.06c1147e.chunk.js.LICENSE.txt": "/static/js/2.06c1147e.chunk.js.LICENSE.txt"
+    "main.js": "/dipeshrai123.github.io/static/js/main.fe901f8a.chunk.js",
+    "main.js.map": "/dipeshrai123.github.io/static/js/main.fe901f8a.chunk.js.map",
+    "runtime-main.js": "/dipeshrai123.github.io/static/js/runtime-main.4fbb2f78.js",
+    "runtime-main.js.map": "/dipeshrai123.github.io/static/js/runtime-main.4fbb2f78.js.map",
+    "static/js/2.06c1147e.chunk.js": "/dipeshrai123.github.io/static/js/2.06c1147e.chunk.js",
+    "static/js/2.06c1147e.chunk.js.map": "/dipeshrai123.github.io/static/js/2.06c1147e.chunk.js.map",
+    "index.html": "/dipeshrai123.github.io/index.html",
+    "static/js/2.06c1147e.chunk.js.LICENSE.txt": "/dipeshrai123.github.io/static/js/2.06c1147e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.868972f9.js",
+    "static/js/runtime-main.4fbb2f78.js",
     "static/js/2.06c1147e.chunk.js",
     "static/js/main.fe901f8a.chunk.js"
   ]
